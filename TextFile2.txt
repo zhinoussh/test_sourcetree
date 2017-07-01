@@ -1,5 +1,11 @@
 This is the second File.
 
+<<<<<<< HEAD
 Before Line Change --2
 
 add line to textfile2
+=======
+add line to textfile2.
+
+After line change. --1
+>>>>>>> d7ec889ed41a3cfd2dc205d5d33d06258ac2c1e4
