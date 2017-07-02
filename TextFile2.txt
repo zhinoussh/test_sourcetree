@@ -1,7 +1,0 @@
-This is the second File.
-
-Before Line Change --2 *****
-
-add line to textfile2
-
-After line change. --1 &&&&&
