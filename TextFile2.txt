@@ -6,4 +6,5 @@ add line to textfile2
 
 After line change. --1 &&&&&
 hahaha
+this is me 1
 this is me 2
